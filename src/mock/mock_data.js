@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1753870703803",
+          "name": "PCL2下载",
+          "url": "https://afdian.com/p/0164034c016c11ebafcb52540025c377",
+          "description": "PCL2启动器下载",
+          "icon": "https://free.picui.cn/free/2025/07/30/6889f1517cc76.png"
         }
       ]
     },
@@ -326,6 +333,13 @@ export const mockData = {
           "url": "https://www.chunkbase.com/",
           "description": "种子查询网站",
           "icon": "/sitelogo/www.chunkbase.com.ico"
+        },
+        {
+          "id": "site-1753870744784",
+          "name": "PCL2",
+          "url": "https://afdian.com/p/0164034c016c11ebafcb52540025c377",
+          "description": "PCL2启动器下载",
+          "icon": "https://free.picui.cn/free/2025/07/30/6889f1517cc76.png"
         }
       ]
     },
