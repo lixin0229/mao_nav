@@ -505,6 +505,13 @@ export const mockData = {
           "url": "https://tinypng.com",
           "description": "图片压缩工具",
           "icon": "/sitelogo/tinypng.com.ico"
+        },
+        {
+          "id": "site-1753869708954",
+          "name": "picui图床",
+          "url": "https://picui.cn/",
+          "description": "好用免费的图床",
+          "icon": "/sitelogo/picui.cn.ico"
         }
       ]
     },
