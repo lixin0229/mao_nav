@@ -312,6 +312,13 @@ export const mockData = {
           "url": "https://www.mcmod.cn/",
           "description": "国内最大的MC百科网站",
           "icon": "/sitelogo/www.mcmod.cn.ico"
+        },
+        {
+          "id": "site-1753870455725",
+          "name": "MineBBS",
+          "url": "https://www.minebbs.com/",
+          "description": "也许是国内最好的腐竹交流论坛？",
+          "icon": "/sitelogo/www.minebbs.com.ico"
         }
       ]
     },
