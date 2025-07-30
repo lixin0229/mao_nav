@@ -548,6 +548,13 @@ export const mockData = {
           "url": "https://mail.google.com/mail",
           "description": "谷歌邮箱",
           "icon": "https://free.picui.cn/free/2025/07/30/6889ed307ed00.png"
+        },
+        {
+          "id": "site-1753869965171",
+          "name": "2925无限邮箱",
+          "url": "https://www.2925.com/",
+          "description": "免费的无限邮箱",
+          "icon": "/sitelogo/www.2925.com.ico"
         }
       ]
     }
