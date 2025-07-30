@@ -499,6 +499,13 @@ export const mockData = {
           "url": "https://www.bilibili.com/",
           "description": "哔哩哔哩弹幕视频网",
           "icon": "/sitelogo/www.bilibili.com.ico"
+        },
+        {
+          "id": "site-1753868818087",
+          "name": "YouTube",
+          "url": "https://www.youtube.com/",
+          "description": "油管",
+          "icon": "/sitelogo/www.youtube.com.ico"
         }
       ]
     }
