@@ -290,6 +290,13 @@ export const mockData = {
           "url": "https://www.jlc.com/",
           "description": "国产良心PCB厂商",
           "icon": "/sitelogo/www.jlc.com.ico"
+        },
+        {
+          "id": "site-1753869915507",
+          "name": "阿里巴巴图标库",
+          "url": "https://www.iconfont.cn/",
+          "description": "阿里良心免费图标库",
+          "icon": "/sitelogo/www.iconfont.cn.ico"
         }
       ]
     },
