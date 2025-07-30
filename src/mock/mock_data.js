@@ -301,10 +301,25 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1753870331996",
+      "icon": "🎮",
+      "name": "我的世界",
+      "order": 6,
+      "sites": [
+        {
+          "id": "site-1753870379524",
+          "name": "MC百科",
+          "url": "https://www.mcmod.cn/",
+          "description": "国内最大的MC百科网站",
+          "icon": "/sitelogo/www.mcmod.cn.ico"
+        }
+      ]
+    },
+    {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 6,
+      "order": 7,
       "sites": [
         {
           "id": "binance",
@@ -368,7 +383,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 7,
+      "order": 8,
       "sites": [
         {
           "id": "mdn",
@@ -404,7 +419,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 8,
+      "order": 9,
       "sites": [
         {
           "id": "bilibili",
@@ -454,7 +469,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 9,
+      "order": 10,
       "sites": [
         {
           "id": "notion",
@@ -490,7 +505,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 10,
+      "order": 11,
       "sites": [
         {
           "id": "json-formatter",
@@ -533,7 +548,7 @@ export const mockData = {
       "id": "category-1753869442900",
       "icon": "📚",
       "name": "各种邮箱",
-      "order": 0,
+      "order": 12,
       "sites": [
         {
           "id": "site-1753869465748",
@@ -578,13 +593,6 @@ export const mockData = {
           "icon": "/sitelogo/mail.sina.com.cn.ico"
         }
       ]
-    },
-    {
-      "id": "category-1753870331996",
-      "icon": "🎮",
-      "name": "我的世界",
-      "order": 0,
-      "sites": []
     }
   ],
   "title": "猫猫导航"
