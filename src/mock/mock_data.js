@@ -90,6 +90,13 @@ export const mockData = {
           "url": "https://www.kimi.com/",
           "description": "月之暗面，国产模型",
           "icon": "/sitelogo/www.kimi.com.ico"
+        },
+        {
+          "id": "site-1753869378665",
+          "name": "DeepSeek",
+          "url": "https://www.deepseek.com/",
+          "description": "国产思考大模型",
+          "icon": "/sitelogo/www.deepseek.com.ico"
         }
       ]
     },
