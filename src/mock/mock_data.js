@@ -492,7 +492,15 @@ export const mockData = {
       "icon": "🎵",
       "name": "影音视听",
       "order": 2,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1753868771882",
+          "name": "哔哩哔哩",
+          "url": "https://www.bilibili.com/",
+          "description": "哔哩哔哩弹幕视频网",
+          "icon": "/sitelogo/www.bilibili.com.ico"
+        }
+      ]
     }
   ],
   "title": "猫猫导航"
