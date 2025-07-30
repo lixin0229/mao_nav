@@ -520,6 +520,13 @@ export const mockData = {
           "url": "https://wx.mail.qq.com/",
           "description": "腾讯QQ邮箱",
           "icon": "/sitelogo/wx.mail.qq.com.ico"
+        },
+        {
+          "id": "site-1753869650331",
+          "name": "Gmail",
+          "url": "https://mail.google.com/mail",
+          "description": "谷歌邮箱",
+          "icon": "https://free.picui.cn/free/2025/07/30/6889ed307ed00.png"
         }
       ]
     }
