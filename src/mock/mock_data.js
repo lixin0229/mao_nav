@@ -347,6 +347,13 @@ export const mockData = {
           "url": "https://hmcl.huangyuhui.net/",
           "description": "HCML启动器官网",
           "icon": "/sitelogo/hmcl.huangyuhui.net.ico"
+        },
+        {
+          "id": "site-1753870850185",
+          "name": "Modrinth",
+          "url": "https://modrinth.com/",
+          "description": "目前最热门MC资源社区",
+          "icon": "/sitelogo/modrinth.com.ico"
         }
       ]
     },
