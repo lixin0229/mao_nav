@@ -486,8 +486,14 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1753868708687",
+      "icon": "🎵",
+      "name": "影音视听",
+      "order": 2,
+      "sites": []
     }
   ],
-  "title": "SH导航",
-  "_fileSha": "11e701e8405c3bec0868abb4c1923a19ff3ee358"
+  "title": "猫猫导航"
 }
