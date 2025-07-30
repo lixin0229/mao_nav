@@ -368,6 +368,13 @@ export const mockData = {
           "url": "https://www.minecraft.net/",
           "description": "我的世界官方网站",
           "icon": "/sitelogo/www.minecraft.net.ico"
+        },
+        {
+          "id": "site-1753871053222",
+          "name": "BDS",
+          "url": "https://www.minecraft.net/zh-hans/download/server/bedrock",
+          "description": "我的世界基岩版服务端",
+          "icon": "/sitelogo/www.minecraft.net.ico"
         }
       ]
     },
