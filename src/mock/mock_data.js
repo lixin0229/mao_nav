@@ -340,6 +340,13 @@ export const mockData = {
           "url": "https://afdian.com/p/0164034c016c11ebafcb52540025c377",
           "description": "PCL2启动器下载",
           "icon": "https://free.picui.cn/free/2025/07/30/6889f1517cc76.png"
+        },
+        {
+          "id": "site-1753870786382",
+          "name": "HCML启动器",
+          "url": "https://hmcl.huangyuhui.net/",
+          "description": "HCML启动器官网",
+          "icon": "/sitelogo/hmcl.huangyuhui.net.ico"
         }
       ]
     },
