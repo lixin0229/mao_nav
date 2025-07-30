@@ -412,6 +412,13 @@ export const mockData = {
           "url": "https://www.zhihu.com",
           "description": "知识问答社区",
           "icon": "/sitelogo/www.zhihu.com.ico"
+        },
+        {
+          "id": "site-1753869270770",
+          "name": "TikTok",
+          "url": "https://www.tiktok.com/",
+          "description": "海外抖音",
+          "icon": "/sitelogo/www.tiktok.com.ico"
         }
       ]
     },
