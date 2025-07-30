@@ -375,6 +375,13 @@ export const mockData = {
           "url": "https://www.minecraft.net/zh-hans/download/server/bedrock",
           "description": "我的世界基岩版服务端",
           "icon": "/sitelogo/www.minecraft.net.ico"
+        },
+        {
+          "id": "site-1753871104122",
+          "name": "Fabric",
+          "url": "https://fabricmc.net/",
+          "description": "Fabric下载网站",
+          "icon": "/sitelogo/fabricmc.net.ico"
         }
       ]
     },
