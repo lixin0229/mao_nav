@@ -354,6 +354,13 @@ export const mockData = {
           "url": "https://modrinth.com/",
           "description": "目前最热门MC资源社区",
           "icon": "/sitelogo/modrinth.com.ico"
+        },
+        {
+          "id": "site-1753870959798",
+          "name": "我的世界curseforge",
+          "url": "https://www.curseforge.com/modspotlight/sircolor-jul25/?utm_source=mcgamecarousel&utm_medium=ownedmedia&utm_campaign=sircolor-modspotlight-july2025",
+          "description": "curseforge我的世界专区",
+          "icon": "/sitelogo/www.curseforge.com.ico"
         }
       ]
     },
