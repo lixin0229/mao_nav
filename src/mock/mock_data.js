@@ -83,6 +83,13 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "/sitelogo/cursor.sh.ico"
+        },
+        {
+          "id": "site-1753868360079",
+          "name": "Kimi",
+          "url": "https://www.kimi.com/",
+          "description": "月之暗面，国产模型",
+          "icon": "/sitelogo/www.kimi.com.ico"
         }
       ]
     },
@@ -481,6 +488,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "SH导航",
-  "_fileSha": "fa76b0cb6370a570d69ded0400e18cf51d5b1886"
+  "title": "猫猫导航"
 }
