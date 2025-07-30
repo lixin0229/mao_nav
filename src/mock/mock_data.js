@@ -513,7 +513,15 @@ export const mockData = {
       "icon": "📚",
       "name": "各种邮箱",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1753869465748",
+          "name": "QQ邮箱",
+          "url": "https://wx.mail.qq.com/",
+          "description": "腾讯QQ邮箱",
+          "icon": "/sitelogo/wx.mail.qq.com.ico"
+        }
+      ]
     }
   ],
   "title": "猫猫导航"
