@@ -382,6 +382,13 @@ export const mockData = {
           "url": "https://fabricmc.net/",
           "description": "Fabric下载网站",
           "icon": "/sitelogo/fabricmc.net.ico"
+        },
+        {
+          "id": "site-1753871143112",
+          "name": "Forge",
+          "url": "https://files.minecraftforge.net/",
+          "description": "forge下载网站",
+          "icon": "/sitelogo/files.minecraftforge.net.ico"
         }
       ]
     },
