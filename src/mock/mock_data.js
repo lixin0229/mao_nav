@@ -419,6 +419,13 @@ export const mockData = {
           "url": "https://www.tiktok.com/",
           "description": "海外抖音",
           "icon": "/sitelogo/www.tiktok.com.ico"
+        },
+        {
+          "id": "site-1753869302449",
+          "name": "抖音",
+          "url": "https://www.douyin.com/",
+          "description": "",
+          "icon": "/sitelogo/www.douyin.com.ico"
         }
       ]
     },
