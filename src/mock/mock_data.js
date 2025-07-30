@@ -578,6 +578,13 @@ export const mockData = {
           "icon": "/sitelogo/mail.sina.com.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1753870331996",
+      "icon": "🎮",
+      "name": "我的世界",
+      "order": 0,
+      "sites": []
     }
   ],
   "title": "猫猫导航"
