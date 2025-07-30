@@ -319,6 +319,13 @@ export const mockData = {
           "url": "https://www.minebbs.com/",
           "description": "也许是国内最好的腐竹交流论坛？",
           "icon": "/sitelogo/www.minebbs.com.ico"
+        },
+        {
+          "id": "site-1753870497773",
+          "name": "Chunkbase",
+          "url": "https://www.chunkbase.com/",
+          "description": "种子查询网站",
+          "icon": "/sitelogo/www.chunkbase.com.ico"
         }
       ]
     },
