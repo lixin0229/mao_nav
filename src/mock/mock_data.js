@@ -555,6 +555,13 @@ export const mockData = {
           "url": "https://www.2925.com/",
           "description": "免费的无限邮箱",
           "icon": "/sitelogo/www.2925.com.ico"
+        },
+        {
+          "id": "site-1753870003434",
+          "name": "微软邮箱",
+          "url": "https://outlook.live.com/",
+          "description": "微软Outlook邮箱",
+          "icon": "/sitelogo/outlook.live.com.ico"
         }
       ]
     }
