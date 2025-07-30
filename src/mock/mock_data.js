@@ -486,44 +486,7 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
-    },
-    {
-      "id": "category-1753868708687",
-      "icon": "🎵",
-      "name": "影音视听",
-      "order": 2,
-      "sites": [
-        {
-          "id": "site-1753868771882",
-          "name": "哔哩哔哩",
-          "url": "https://www.bilibili.com/",
-          "description": "哔哩哔哩弹幕视频网",
-          "icon": "/sitelogo/www.bilibili.com.ico"
-        },
-        {
-          "id": "site-1753868818087",
-          "name": "YouTube",
-          "url": "https://www.youtube.com/",
-          "description": "油管",
-          "icon": "/sitelogo/www.youtube.com.ico"
-        },
-        {
-          "id": "site-1753868861633",
-          "name": "TikTok",
-          "url": "https://www.tiktok.com/",
-          "description": "海外抖音",
-          "icon": "/sitelogo/www.tiktok.com.ico"
-        },
-        {
-          "id": "site-1753868896547",
-          "name": "抖音",
-          "url": "https://www.douyin.com/",
-          "description": "全过都在用",
-          "icon": "/sitelogo/www.douyin.com.ico"
-        }
-      ]
     }
   ],
-  "title": "SH导航",
-  "_fileSha": "abe8df6f67c9ba403772adca07fd7c733b6c5e17"
+  "title": "猫猫导航"
 }
