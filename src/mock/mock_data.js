@@ -283,6 +283,13 @@ export const mockData = {
           "url": "https://www.adobe.com/products/xd.html",
           "description": "用户体验设计工具",
           "icon": "/sitelogo/www.adobe.com.ico"
+        },
+        {
+          "id": "site-1753869758503",
+          "name": "嘉立创",
+          "url": "https://www.jlc.com/",
+          "description": "国产良心PCB厂商",
+          "icon": "/sitelogo/www.jlc.com.ico"
         }
       ]
     },
