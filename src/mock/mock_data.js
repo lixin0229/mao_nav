@@ -438,7 +438,7 @@ export const mockData = {
           "id": "site-1753869302449",
           "name": "抖音",
           "url": "https://www.douyin.com/",
-          "description": "",
+          "description": "当下热门短视频软件",
           "icon": "/sitelogo/www.douyin.com.ico"
         }
       ]
