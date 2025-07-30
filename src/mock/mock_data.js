@@ -507,6 +507,13 @@ export const mockData = {
           "icon": "/sitelogo/tinypng.com.ico"
         }
       ]
+    },
+    {
+      "id": "category-1753869442900",
+      "icon": "📚",
+      "name": "各种邮箱",
+      "order": 0,
+      "sites": []
     }
   ],
   "title": "猫猫导航"
