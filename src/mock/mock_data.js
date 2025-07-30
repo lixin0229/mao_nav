@@ -506,6 +506,13 @@ export const mockData = {
           "url": "https://www.youtube.com/",
           "description": "油管",
           "icon": "/sitelogo/www.youtube.com.ico"
+        },
+        {
+          "id": "site-1753868861633",
+          "name": "TikTok",
+          "url": "https://www.tiktok.com/",
+          "description": "海外抖音",
+          "icon": "/sitelogo/www.tiktok.com.ico"
         }
       ]
     }
