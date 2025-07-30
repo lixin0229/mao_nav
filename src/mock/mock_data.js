@@ -569,6 +569,13 @@ export const mockData = {
           "url": "https://mail.163.com/",
           "description": "网易163邮箱",
           "icon": "/sitelogo/mail.163.com.ico"
+        },
+        {
+          "id": "site-1753870093509",
+          "name": "新浪邮箱",
+          "url": "https://mail.sina.com.cn/",
+          "description": "新浪邮箱",
+          "icon": "/sitelogo/mail.sina.com.cn.ico"
         }
       ]
     }
