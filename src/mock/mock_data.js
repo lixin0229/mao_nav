@@ -33,13 +33,6 @@ export const mockData = {
           "url": "https://github.com",
           "description": "代码托管平台",
           "icon": "/sitelogo/github.com.ico"
-        },
-        {
-          "id": "site-1753933024413",
-          "name": "520switch",
-          "url": "https://www.520switch.com/",
-          "description": "全站共计8万款游戏",
-          "icon": "https://free.picui.cn/free/2025/07/31/688ae442916ef.png"
         }
       ]
     },
@@ -616,6 +609,13 @@ export const mockData = {
           "url": "https://rutracker.org",
           "description": "毛子游戏网站",
           "icon": "https://free.picui.cn/free/2025/07/31/688ae66e9ae2a.png"
+        },
+        {
+          "id": "site-1753933024413",
+          "name": "520switch",
+          "url": "https://www.520switch.com/",
+          "description": "全站共计8万款游戏",
+          "icon": "https://free.picui.cn/free/2025/07/31/688ae442916ef.png"
         }
       ]
     },
