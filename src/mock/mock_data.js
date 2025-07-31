@@ -546,6 +546,13 @@ export const mockData = {
           "url": "https://ddys.pro/",
           "description": "高质量观影网站",
           "icon": "/sitelogo/ddys.pro.ico"
+        },
+        {
+          "id": "site-1753932431435",
+          "name": "Novip影视",
+          "url": "https://www.novipnoad.net/",
+          "description": "高质量在线观影",
+          "icon": "/sitelogo/www.novipnoad.net.ico"
         }
       ]
     },
