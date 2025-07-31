@@ -539,6 +539,13 @@ export const mockData = {
           "url": "https://www.douyin.com/",
           "description": "当下热门短视频软件",
           "icon": "/sitelogo/www.douyin.com.ico"
+        },
+        {
+          "id": "site-1753932366897",
+          "name": "低端影视",
+          "url": "https://ddys.pro/",
+          "description": "高质量观影网站",
+          "icon": "/sitelogo/ddys.pro.ico"
         }
       ]
     },
@@ -672,6 +679,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "SH导航",
-  "_fileSha": "8282c2a0bd62e73e7f920e171cc935b3e7a022e7"
+  "title": "SH导航"
 }
