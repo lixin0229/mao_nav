@@ -553,6 +553,13 @@ export const mockData = {
           "url": "https://www.novipnoad.net/",
           "description": "高质量在线观影",
           "icon": "/sitelogo/www.novipnoad.net.ico"
+        },
+        {
+          "id": "site-1753932574606",
+          "name": "LibreTV",
+          "url": "https://video.functen.cn/",
+          "description": "密码12345678",
+          "icon": "https://free.picui.cn/free/2025/07/31/688ae2f8d458b.png"
         }
       ]
     },
