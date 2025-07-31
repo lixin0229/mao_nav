@@ -168,6 +168,13 @@ export const mockData = {
           "url": "https://www.pasyun.com/",
           "description": "ipv6机器",
           "icon": "/sitelogo/www.pasyun.com.ico"
+        },
+        {
+          "id": "site-1753949962696",
+          "name": "爪云",
+          "url": "https://claw.cloud/",
+          "description": "免费白嫖容器",
+          "icon": "/sitelogo/claw.cloud.ico"
         }
       ]
     },
