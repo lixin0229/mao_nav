@@ -218,6 +218,13 @@ export const mockData = {
           "url": "https://www.oracle.com/java/technologies/downloads/",
           "description": "Oracle官方Java下载",
           "icon": "/sitelogo/www.oracle.com.ico"
+        },
+        {
+          "id": "site-1753949849779",
+          "name": "aiven",
+          "url": "https://aiven.io/",
+          "description": "免费白嫖数据库",
+          "icon": "/sitelogo/aiven.io.ico"
         }
       ]
     },
