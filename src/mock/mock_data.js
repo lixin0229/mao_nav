@@ -189,6 +189,13 @@ export const mockData = {
           "url": "https://aiven.io/",
           "description": "免费白嫖数据库",
           "icon": "/sitelogo/aiven.io.ico"
+        },
+        {
+          "id": "site-1753950249889",
+          "name": "派云",
+          "url": "https://pinnovatecloud.com/",
+          "description": "aws服务器代开",
+          "icon": "/sitelogo/pinnovatecloud.com.ico"
         }
       ]
     },
