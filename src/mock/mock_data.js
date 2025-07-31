@@ -47,6 +47,13 @@ export const mockData = {
           "url": "https://afdian.com/p/0164034c016c11ebafcb52540025c377",
           "description": "PCL2启动器下载",
           "icon": "https://free.picui.cn/free/2025/07/30/6889f1517cc76.png"
+        },
+        {
+          "id": "site-1753933024413",
+          "name": "520switch",
+          "url": "https://www.520switch.com/",
+          "description": "全站共计8万款游戏",
+          "icon": "https://free.picui.cn/free/2025/07/31/688ae442916ef.png"
         }
       ]
     },
