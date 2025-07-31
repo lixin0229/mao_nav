@@ -175,6 +175,13 @@ export const mockData = {
           "url": "https://claw.cloud/",
           "description": "免费白嫖容器",
           "icon": "/sitelogo/claw.cloud.ico"
+        },
+        {
+          "id": "site-1753950043921",
+          "name": "render",
+          "url": "https://render.com/",
+          "description": "免费白嫖容器",
+          "icon": "/sitelogo/render.com.ico"
         }
       ]
     },
