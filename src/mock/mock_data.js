@@ -581,6 +581,13 @@ export const mockData = {
           "url": "https://poki.com/",
           "description": "宝玩游戏站",
           "icon": "/sitelogo/poki.com.ico"
+        },
+        {
+          "id": "site-1753933452289",
+          "name": "rutracker",
+          "url": "https://rutracker.org",
+          "description": "毛子游戏网站",
+          "icon": "https://free.picui.cn/free/2025/07/31/688ae66e9ae2a.png"
         }
       ]
     },
