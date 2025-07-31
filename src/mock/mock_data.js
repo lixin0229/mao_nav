@@ -560,6 +560,13 @@ export const mockData = {
           "url": "https://video.functen.cn/",
           "description": "密码12345678",
           "icon": "https://free.picui.cn/free/2025/07/31/688ae2f8d458b.png"
+        },
+        {
+          "id": "site-1753932773515",
+          "name": "3DM",
+          "url": "https://www.3dmgame.com/",
+          "description": "3dm无需多言",
+          "icon": "/sitelogo/www.3dmgame.com.ico"
         }
       ]
     },
