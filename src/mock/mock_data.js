@@ -574,6 +574,13 @@ export const mockData = {
           "url": "https://www.3dmgame.com/",
           "description": "3dm无需多言",
           "icon": "/sitelogo/www.3dmgame.com.ico"
+        },
+        {
+          "id": "site-1753933173225",
+          "name": "宝玩",
+          "url": "https://poki.com/",
+          "description": "宝玩游戏站",
+          "icon": "/sitelogo/poki.com.ico"
         }
       ]
     },
