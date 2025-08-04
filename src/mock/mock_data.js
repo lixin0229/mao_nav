@@ -709,6 +709,13 @@ export const mockData = {
           "url": "https://picui.cn/",
           "description": "好用免费的图床",
           "icon": "/sitelogo/picui.cn.ico"
+        },
+        {
+          "id": "site-1754279665970",
+          "name": "smspool",
+          "url": "https://www.smspool.net/",
+          "description": "接码平台",
+          "icon": "/sitelogo/www.smspool.net.ico"
         }
       ]
     },
