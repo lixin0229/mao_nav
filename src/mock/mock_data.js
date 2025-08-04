@@ -623,6 +623,13 @@ export const mockData = {
           "url": "https://dl.kkys04.com/",
           "description": "全平台观影",
           "icon": "/sitelogo/www.kkys01.com.ico"
+        },
+        {
+          "id": "site-1754279490950",
+          "name": "且慢阅览室",
+          "url": "https://csnd.cn/",
+          "description": "古诗词，成语，电子书，推荐书单以及一些工具等",
+          "icon": "/sitelogo/csnd.cn.ico"
         }
       ]
     },
