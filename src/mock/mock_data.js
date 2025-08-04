@@ -716,6 +716,13 @@ export const mockData = {
           "url": "https://www.smspool.net/",
           "description": "接码平台",
           "icon": "/sitelogo/www.smspool.net.ico"
+        },
+        {
+          "id": "site-1754279806016",
+          "name": "activate",
+          "url": "https://sms-activate.org",
+          "description": "好像是毛子的接码平台，挺好用的",
+          "icon": "/sitelogo/sms-activate.org.ico"
         }
       ]
     },
