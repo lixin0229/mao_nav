@@ -616,6 +616,13 @@ export const mockData = {
           "url": "https://www.520switch.com/",
           "description": "全站共计8万款游戏",
           "icon": "https://free.picui.cn/free/2025/07/31/688ae442916ef.png"
+        },
+        {
+          "id": "site-1754279201068",
+          "name": "可可观影",
+          "url": "https://dl.kkys04.com/",
+          "description": "全平台观影",
+          "icon": "/sitelogo/www.kkys01.com.ico"
         }
       ]
     },
