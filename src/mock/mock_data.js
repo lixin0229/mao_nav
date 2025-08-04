@@ -330,7 +330,7 @@ export const mockData = {
     },
     {
       "id": "category-1753870331996",
-      "icon": "🎮",
+      "icon": "💻",
       "name": "我的世界",
       "order": 6,
       "sites": [
