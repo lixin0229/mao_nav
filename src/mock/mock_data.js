@@ -637,6 +637,13 @@ export const mockData = {
           "url": "https://csnd.cn/",
           "description": "古诗词，成语，电子书，推荐书单以及一些工具等",
           "icon": "/sitelogo/csnd.cn.ico"
+        },
+        {
+          "id": "site-1754380044348",
+          "name": "HiFiTi",
+          "url": "https://www.hifiti.com/",
+          "description": "无损音乐下载网站",
+          "icon": "/sitelogo/www.hifiti.com.ico"
         }
       ]
     },
