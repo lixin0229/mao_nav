@@ -325,6 +325,13 @@ export const mockData = {
           "url": "https://www.iconfont.cn/",
           "description": "阿里良心免费图标库",
           "icon": "/sitelogo/www.iconfont.cn.ico"
+        },
+        {
+          "id": "site-1754364185231",
+          "name": "magicstudio",
+          "url": "https://magicstudio.com/zh/background-remover/",
+          "description": "在线抠图",
+          "icon": "/sitelogo/magicstudio.com.ico"
         }
       ]
     },
