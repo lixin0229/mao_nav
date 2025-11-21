@@ -83,6 +83,13 @@ export const mockData = {
           "url": "https://www.deepseek.com/",
           "description": "国产思考大模型",
           "icon": "/sitelogo/www.deepseek.com.ico"
+        },
+        {
+          "id": "site-1763703990060",
+          "name": "Gemini",
+          "url": "https://gemini.google.com",
+          "description": "Gemini AI 助手",
+          "icon": "https://img.functen.cn/file/1755053665866_gemini-ai.png"
         }
       ]
     },
