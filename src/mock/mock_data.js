@@ -789,6 +789,13 @@ export const mockData = {
           "icon": "/sitelogo/mail.sina.com.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1763703881977",
+      "icon": "🎮",
+      "name": "旮旯Game",
+      "order": 0,
+      "sites": []
     }
   ],
   "title": "SH导航"
